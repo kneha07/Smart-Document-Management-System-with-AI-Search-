@@ -1,0 +1,32 @@
+spring.application.name=googledrive
+
+# MongoDB Configuration
+spring.data.mongodb.uri=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/minigoogledrive?appName=Mini-Google-Drive
+spring.data.mongodb.database=minigoogledrive
+
+# AWS S3 Configuration
+aws.access.key.id=YOUR_ACCESS_KEY_ID
+aws.secret.access.key=YOUR_SECRET_ACCESS_KEY
+aws.s3.bucket.name=your-bucket-name
+aws.s3.region=us-west-1
+
+# Server Configuration
+server.port=8080
+
+# File Upload Settings
+spring.servlet.multipart.max-file-size=50MB
+spring.servlet.multipart.max-request-size=50MB
+
+# JWT Configuration (Generate a secure random key for production)
+jwt.secret=your-super-secret-key-min-256-bits-long-change-in-production
+jwt.expiration=86400000
+
+# File Encryption (AES-256 requires exactly 32 characters)
+file.encryption.key=MySecretEncryptionKey1234567890
+
+# Logging
+logging.level.org.springframework.data.mongodb=DEBUG
+
+# OpenAI Configuration (for AI Semantic Search)
+openai.api.key=YOUR_OPENAI_API_KEY
+openai.model=YOUR_MODEL_NAME
