@@ -1,4 +1,4 @@
-# 🚀 Mini Google Drive - Smart Document Management System
+# 🚀 Smart Document Management System with AI Search
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]()
@@ -14,7 +14,7 @@
 
 ## 🌟 Overview
 
-**Mini Google Drive** is a full-stack document management system that revolutionizes how users store, organize, and retrieve files. Built with enterprise-grade security, AI-powered NLP, cloud storage, and modern design principles, it provides an intelligent experience for managing documents in the cloud.
+**Smart Document Management System with AI Search** is a full-stack document management system that revolutionizes how users store, organize, and retrieve files. Built with enterprise-grade security, AI-powered NLP, cloud storage, and modern design principles, it provides an intelligent experience for managing documents in the cloud.
 
 ---
 
@@ -163,8 +163,8 @@ Before running this project, ensure you have:
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Richa-04/Mini-Google-Drive-Dropbox.git
-cd Mini-Google-Drive-Dropbox
+git clone https://github.com/kneha07/Smart-Document-Management-System-with-AI-Search.git
+cd Smart-Document-Management-System-with-AI-Search
 ```
 
 #### 2️⃣ MongoDB Setup
@@ -218,7 +218,7 @@ cd Mini-Google-Drive-Dropbox
 1. Create an account at [OpenAI Platform](https://platform.openai.com/)
 2. Navigate to **API Keys** in your dashboard
 3. Click **"Create new secret key"**
-4. **Name it**: `Mini-Google-Drive`
+4. **Name it**: `Smart-Document-Management`
 5. **⚠️ IMPORTANT: Copy the key immediately** (starts with `sk-...`)
    - You won't be able to see it again!
    - Save it in a secure location
@@ -532,7 +532,7 @@ Response:
 
 ## 📂 Project Structure
 ```
-Mini-Google-Drive-Dropbox/
+Smart-Document-Management-System-with-AI-Search/
 ├── backend/
 │   ├── src/
 │   │   ├── main/
@@ -802,6 +802,19 @@ mvn clean install
 - JWT authentication
 - AES encryption
 - Vector similarity algorithms
+
+---
+
+## 👩‍💻 Developer
+
+<div align="center">
+
+**Neha Kumari**
+
+[![GitHub](https://img.shields.io/badge/GitHub-kneha07-181717?style=for-the-badge&logo=github)](https://github.com/kneha07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kneha101n-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kneha101n/)
+
+</div>
 
 ---
 
