@@ -89,11 +89,11 @@
 *Grid view showing auto-generated keywords and summaries with expandable details*
 
 ### AI Semantic Search in Action
-![AI Search](Screenshots/ai-search.png)
+![AI Search](Screenshots/ai-search.png?v=2)
 *Natural language search powered by OpenAI embeddings*
 
 ### List View with NLP Details
-![List View](Screenshots/list-view-expanded.png)
+![List View](Screenshots/list-view-expanded.png?v=2)
 *Expandable section showing keywords and document summary*
 
 ---
