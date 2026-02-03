@@ -85,7 +85,7 @@
 ## 📸 Screenshots
 
 ### Dashboard with AI-Generated Keywords & Summaries
-![Dashboard](Screenshots/dashboard-grid.png)
+![Dashboard](Screenshots/dashboard-grid.png?v=2)
 *Grid view showing auto-generated keywords and summaries with expandable details*
 
 ### AI Semantic Search in Action
